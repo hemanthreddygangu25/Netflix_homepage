@@ -3,7 +3,7 @@
 
 A simple, responsive clone of the Netflix homepage built using modern web technologies. This project is for educational purposes to practice frontend development and UI design skills.
 
-![Netflix Clone Preview](preview.png)
+
 
 ## 🚀 Features
 
@@ -18,8 +18,8 @@ A simple, responsive clone of the Netflix homepage built using modern web techno
 
 - **HTML5**
 - **CSS3 / SCSS**
-- **JavaScript (Vanilla / React)**
-- (Optional: [TMDb API](https://www.themoviedb.org/documentation/api) for movie data)
+- **JavaScript **
+
 
 ## 📦 Getting Started
 
